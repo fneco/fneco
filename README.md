@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fneco&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Likes](https://badgen.org/img/zenn/fizumi/likes?style=plastic)](https://zenn.dev/fizumi)
+[![Contributions](https://badgen.org/img/qiita/fizumi6/contributions?style=plastic)](https://qiita.com/fizumi6)
